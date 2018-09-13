@@ -1,0 +1,17 @@
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\ResolveAssemblyReference.cache
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.Form1.resources
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.Properties.Resources.resources
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.csproj.GenerateResource.Cache
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\bin\Debug\contactos.exe
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\bin\Debug\contactos.pdb
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.exe
+F:\DATOS\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.pdb
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\bin\Debug\contactos.exe
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\bin\Debug\contactos.pdb
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.csprojAssemblyReference.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.Form1.resources
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.Properties.Resources.resources
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.csproj.GenerateResource.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.exe
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\contactos\contactos\obj\Debug\contactos.pdb
